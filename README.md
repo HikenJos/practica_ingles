@@ -4,7 +4,7 @@ _DEMO application with which you can practice and remember words in English, to 
 
 ## Starting 🚀
 
-Yyou can clone the project with: git clone https://github.com/HikenJos/practica_ingles.git._
+You can clone the project with: git clone https://github.com/HikenJos/practica_ingles.git.
 
 _Use ```yarn -i``` to install dependencies_
 
